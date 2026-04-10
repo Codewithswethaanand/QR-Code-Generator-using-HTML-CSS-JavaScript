@@ -9,14 +9,11 @@
   </a>
 </p>
 
-## 🚀 QR Code Generator Project
+QR Code Generator Project
+Live Demo:
+https://qr-code-generator-using-html-css-ja.vercel.app/
 
-🔗 **Live Demo:**  
-👉 https://qr-code-generator-using-html-css-ja.vercel.app/
-
----
-
-## 📸 Project Preview
+Project Preview
 
 <img src="https://your-image-link.png" alt="QR Generator" width="600"/>
 
