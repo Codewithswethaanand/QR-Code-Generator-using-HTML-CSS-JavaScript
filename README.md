@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Swetha</h1>
-<h3 align="center">Frontend Developer | SEO Specialist</h3>
 
----
+<h1 align="center">Frontend Developer | SEO Specialist</h1>
 
 <p align="center">
   <a href="https://qr-code-generator-using-html-css-ja.vercel.app/">
@@ -15,39 +13,21 @@ https://qr-code-generator-using-html-css-ja.vercel.app/
 
 Project Preview
 
-<img src="https://your-image-link.png" alt="QR Generator" width="600"/>
+<img src="QR.png" alt="QR Generator" width="600"/>
 
----
-
-## 💡 About Project
-
+About Project
 This is a simple and interactive QR Code Generator built using:
-
 - HTML
 - CSS
 - JavaScript
 
-✨ Features:
+Features:
 - Generate QR instantly
 - Clean UI
 - Mobile responsive
 
----
+ GitHub Repo
+https://github.com/Codewithswethaanand/QR-Code-Generator-using-HTML-CSS-JavaScript
 
-## 🛠️ Tech Stack
-
-- HTML5
-- CSS3
-- JavaScript
-
----
-
-## 📂 GitHub Repo
-
-👉 https://github.com/YOUR_USERNAME/YOUR_REPO
-
----
-
-## 📫 Connect with me
-
-- LinkedIn: https://www.linkedin.com/in/swetha-seoexecutive/
+Connect with me
+- LinkedIn: https://www.linkedin.com/in/swetha-seoanalyst/
