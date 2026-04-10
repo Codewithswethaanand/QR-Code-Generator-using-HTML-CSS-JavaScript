@@ -3,6 +3,12 @@
 
 ---
 
+<p align="center">
+  <a href="https://qr-code-generator-using-html-css-ja.vercel.app/">
+    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge" />
+  </a>
+</p>
+
 ## 🚀 QR Code Generator Project
 
 🔗 **Live Demo:**  
