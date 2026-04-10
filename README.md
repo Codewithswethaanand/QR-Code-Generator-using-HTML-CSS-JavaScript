@@ -1,34 +1,50 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>QR Code Generator</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
+<h1 align="center">Hi 👋, I'm Swetha</h1>
+<h3 align="center">Frontend Developer | SEO Specialist</h3>
 
-  <div class="container">
-    <h1>QR Code Generator</h1>
+---
 
-    <!-- Input -->
-    <input type="text" id="qrText" placeholder="Enter text or URL">
-    <button onclick="generateQR()">Generate QR</button>
+## 🚀 QR Code Generator Project
 
-    <!-- QR Output -->
-    <div id="imgBox">
-      <img id="qrImage" src="">
-    </div>
+🔗 **Live Demo:**  
+👉 https://qr-code-generator-using-html-css-ja.vercel.app/
 
-    <!-- Clickable Preview Image -->
-    <div class="preview">
-      <a href="https://qr-code-generator-using-html-css-ja.vercel.app/" target="_blank">
-        <img src="preview.png" alt="Live Preview">
-      </a>
-      <p>Click image to open live site</p>
-    </div>
+---
 
-  </div>
+## 📸 Project Preview
 
-<script src="script.js"></script>
-</body>
-</html>
+<img src="https://your-image-link.png" alt="QR Generator" width="600"/>
+
+---
+
+## 💡 About Project
+
+This is a simple and interactive QR Code Generator built using:
+
+- HTML
+- CSS
+- JavaScript
+
+✨ Features:
+- Generate QR instantly
+- Clean UI
+- Mobile responsive
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## 📂 GitHub Repo
+
+👉 https://github.com/YOUR_USERNAME/YOUR_REPO
+
+---
+
+## 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/swetha-seoexecutive/
